@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="H:/spring-tool-suite-3.9.8.RELEASE-e4.11.0-win32-x86_64/sts-bundle/sts-3.9.8.RELEASE/plugins/jackson-core-2.3.1.jar"/>
+	<classpathentry kind="lib" path="H:/spring-tool-suite-3.9.8.RELEASE-e4.11.0-win32-x86_64/sts-bundle/sts-3.9.8.RELEASE/plugins/jaxb-api-2.2.8.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/spring-tool-suite-3.9.8.RELEASE-e4.11.0-win32-x86_64/sts-bundle/sts-3.9.8.RELEASE/plugins/jackson-databind-2.3.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="H:/spring-tool-suite-3.9.8.RELEASE-e4.11.0-win32-x86_64/sts-bundle/sts-3.9.8.RELEASE/plugins/jackson-annotations-2.3.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
